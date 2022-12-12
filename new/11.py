@@ -4,3 +4,4 @@ if a < 6:
     print("нет" )
 else:
     print(" да ")
+    #   
